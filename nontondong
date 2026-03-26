@@ -8,6 +8,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="NASIONAL",TVONE (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/tv1.png", tvOne (Dens)
+http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://th.bing.com/th/id/OIP.Qa-p6Yq6efGC04UgFPNj-gHaE1?rs=1&pid=ImgDetMain", 02 KOMPAS HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
@@ -16,6 +19,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="NASIONAL",KOMPAS TV (DNS)
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/kompastv%20(2).png",Kompas TV (Dens)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/chCHAMannel-logo/6.jpg" group-title="NASIONAL", Metro TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -26,6 +34,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="NASIONAL",METRO TV (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png",Metro TV (Dens)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 
 #EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/3otsx9tmmh18aqn/cnnindo.png" group-title="NASIONAL",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
@@ -99,14 +112,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="NASIONAL",Nusantara TV
 https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=nusantara-tv-ntv
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Animal Planet.id" tvg-name="Animal Planet" tvg-logo="https://mimipipi22.github.io/logo/knowledge/animalplanet.jpg" group-title="NASIONAL",ANIMAL PLANET
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
-http://203.77.246.58:4500/udp/239.1.2.226:5000
-http://203.77.246.58:4500/udp/239.1.5.28:5000
-#https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="NASIONAL", Moji (Dens)
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhTcCyi.jpeg" group-title="NASIONAL", MOTORVISION+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
